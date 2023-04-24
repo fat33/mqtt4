@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Exercise_100px.png</file>
+        <file>images/Exercise2_100px.png</file>
+        <file>images/Send Email_100px.png</file>
+        <file>images/SendEmail.ico</file>
+    </qresource>
+</RCC>
